@@ -1,5 +1,5 @@
 # OCTACtppTazOriginDestination
-Web app to explore CTPP origins and destinations from dataset B302203 for Orange County CA
+Web app to explore CTPP origins and destinations from CTPP dataset B302203 for Orange County CA
 
 View the app at:
 https://maps.octa.net/portal/apps/webappviewer/index.html?id=60d02607964c4f6db4da17a47084798c
