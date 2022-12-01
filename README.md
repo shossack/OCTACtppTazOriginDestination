@@ -7,4 +7,7 @@ https://maps.octa.net/portal/apps/webappviewer/index.html?id=60d02607964c4f6db4d
 NOTE: This app might be occasionaly but briefly shut down for server maintenance on weekends and evenings.
 
 Instructions are provided by the attached PDF
+[OCTA_CTPP_TAZ_OriginDestinationApp.pdf](https://github.com/shossack/OCTACtppTazOriginDestination/files/10129910/OCTA_CTPP_TAZ_OriginDestinationApp.pdf)
+
 ![Capture](https://user-images.githubusercontent.com/4298843/204967686-029f765b-a837-4f76-859d-0af335c2056e.JPG)
+
